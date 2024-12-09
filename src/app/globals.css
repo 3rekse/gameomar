@@ -9,6 +9,12 @@
     --foreground: #ededed;
   }
 }
+@font-face {
+  font-family: 'Mountains of Christmas';
+  src: url('./fonts/MountainsofChristmas-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
 
 html,
 body {
